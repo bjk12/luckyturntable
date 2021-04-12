@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>qssblack.config</file>
+        <file>qsswhite.config</file>
+    </qresource>
+</RCC>
